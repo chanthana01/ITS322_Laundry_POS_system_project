@@ -1,1 +1,0 @@
-# ITS322_Laundry_POS_system_project
